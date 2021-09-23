@@ -1,0 +1,12 @@
+{
+  "name": "JS",
+  "version": "1.0.0",
+  "description": "How to create the Testimonial Section Using HTML and CSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
